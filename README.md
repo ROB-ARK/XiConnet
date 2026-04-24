@@ -10,6 +10,8 @@ XiConnet es una aplicación web diseñada para conectar usuarios con negocios lo
 Integra múltiples tecnologías modernas para la gestión y exploración combinando backend estructurado, frontend dinámico y consumo de APIs externas en una sola plataforma
 
 ---
+## Inicio
+![Inicio](images/inicio.png)
 
 # Tecnologías utilizadas
 
@@ -122,7 +124,7 @@ Nota: Actualmente sin encriptación (pendiente implementación de JWT y bcrypt).
 * Gestión de usuarios
 * Visualización de negocios
 * Eliminación de registros
-
+![Admin](assets/admin.png)
 ## Catálogo externo
 
 * Consumo de API externa de productos
