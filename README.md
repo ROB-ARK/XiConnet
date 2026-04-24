@@ -11,7 +11,8 @@ Integra múltiples tecnologías modernas para la gestión y exploración combina
 
 ---
 ## Inicio
-![Inicio](images/inicio.png)
+![Inicio](images/Inicio.png)
+
 
 # Tecnologías utilizadas
 
