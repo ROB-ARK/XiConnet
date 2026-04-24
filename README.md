@@ -132,7 +132,8 @@ Nota: Actualmente sin encriptación (pendiente implementación de JWT y bcrypt).
 * Gestión de usuarios
 * Visualización de negocios
 * Eliminación de registros
-![Admin](assets/admin.png)
+## Admin
+![Admin](images/admin.png)
 ## Catálogo externo
 
 * Consumo de API externa de productos
